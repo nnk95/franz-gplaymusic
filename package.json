@@ -1,0 +1,14 @@
+{
+  "id": "Google Play Music",
+  "name": "Google Play Music",
+  "version": "0.0.1",
+  "description": "Google Play Music",
+  "main": "index.js",
+  "author": "Jazereel Goh <jason.teo@live.com.sg>",
+  "repository": "https://github.com/nnk95/franz-gplaymusic",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://play.google.com/music/",
+    "hasNotificationSound": false
+  }
+}
