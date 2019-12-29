@@ -1,6 +1,9 @@
 # franz-gplaymusic
 Very basic Franz Recipe for Google Play Music
 
+Google Play Music only works if you already have an account for it!
+But just sign in to check anyway.
+
 # Installation
 Open the recipe folder of Franz
 
