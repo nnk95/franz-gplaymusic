@@ -1,7 +1,16 @@
 # franz-gplaymusic
+
+**GOOGLE PLAY MUSIC IS GOING AWAY SOON**
+
+IT MAY BE TIME TO MIGRATE AWAY (if you dislike youtube music)
+
+And thus making this plugin obsolete
+
+# OLD README
 Very basic Franz Recipe for Google Play Music
 
 Google Play Music only works if you already have an account for it!
+
 But just sign in to check anyway.
 
 # Installation
