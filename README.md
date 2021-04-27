@@ -1,5 +1,7 @@
 # franz-gplaymusic
 
+![GitHub last commit](https://img.shields.io/github/last-commit/nnk95/franz-gplaymusic?style=for-the-badge)
+
 **GOOGLE PLAY MUSIC IS GOING AWAY SOON**
 
 IT MAY BE TIME TO MIGRATE AWAY (if you dislike youtube music)
